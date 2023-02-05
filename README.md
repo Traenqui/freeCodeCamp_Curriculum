@@ -1,6 +1,5 @@
 # FreeCodeCamp Curriculum
 
-
 ## Goal
 
 The goal of this repo is to improve my coding and learn new technologies.

@@ -1,7 +1,5 @@
 # FreeCodeCamp Responsive Web Design Certifaication
 
----
-
 In this folder you will find all infroamtions about the [freeCodeCamp](https://www.freecodecamp.org/) [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) certificate.
 
 During this course, you'll look at the basics of creating websites. These are:
@@ -16,8 +14,6 @@ To get a head start I used these cheat sheets to help me
 
 ## Projects
 
----
-
 These 5 projects have to be completed in order to claim the certificate below.
 
 - Tribute Page:
@@ -28,11 +24,7 @@ These 5 projects have to be completed in order to claim the certificate below.
 
 ## Certification
 
----
-
 ## WIP / ToDos
-
----
 
 - TODO: link the single projects
 - TODO: document the process
