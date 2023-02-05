@@ -1,15 +1,12 @@
 # FreeCodeCamp Curriculum
 
----
 
 ## Goal
 
----
 The goal of this repo is to improve my coding and learn new technologies.
 
 ## Certifications
 
----
 To earn a certificate, you have to complete 5 projects and pass all the tests for each project.
 
 1. [Responsive Web Design](./01-responsive-web-design/README.md)
